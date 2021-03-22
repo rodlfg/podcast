@@ -22,7 +22,7 @@ new Vue({
           artist: "EP 2",
           cover: "https://raw.githubusercontent.com/rodlfg/podcast/main/img/1.jpg",
           source:"https://raw.githubusercontent.com/rodlfg/podcast/main/mp3/1.mp3",
-          url: "https://chat.whatsapp.com/Ji4e4Pj6KUr3lHiw3hD0vU",
+          url: "https://ghostbin.com/paste/9sghy",
           favorited: false
         }
       ],
