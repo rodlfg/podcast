@@ -313,7 +313,7 @@ body {
 .github-btn {
   position: absolute;
   right: 40px;
-  bottom: 50px;
+  bottom: 120px;
   text-decoration: none;
   padding: 15px 25px;
   border-radius: 4px;
@@ -346,7 +346,7 @@ body {
 .wp-btn {
   position: absolute;
   right: 40px;
-  bottom: -30px;
+  bottom: 50px;
   text-decoration: none;
   padding: 15px 25px;
   border-radius: 4px;
