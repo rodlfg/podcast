@@ -12,8 +12,8 @@ new Vue({
         {
           name: "EP 1",
           artist: "Tesssst",
-          cover: "\img\1.jpg",
-          source: "\mp3\1.mp3",
+          cover: "https://raw.githubusercontent.com/rodlfg/podcast/main/img/1.jpg",
+          source: "https://raw.githubusercontent.com/rodlfg/podcast/main/mp3/1.jpg",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         }
