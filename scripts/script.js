@@ -10,11 +10,11 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "EP 1",
-          artist: "Tesssst",
+          name: "Comparte con tus amigos!",
+          artist: "EP 1",
           cover: "https://raw.githubusercontent.com/rodlfg/podcast/main/img/1.jpg",
-          source: "https://raw.githubusercontent.com/rodlfg/podcast/main/mp3/1.jpg",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          source:"https://raw.githubusercontent.com/rodlfg/podcast/main/mp3/1.mp3",
+          url: "https://chat.whatsapp.com/Ji4e4Pj6KUr3lHiw3hD0vU",
           favorited: false
         }
       ],
