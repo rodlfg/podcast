@@ -16,7 +16,7 @@ new Vue({
           source:"https://raw.githubusercontent.com/rodlfg/podcast/main/mp3/1.mp3",
           url: "https://chat.whatsapp.com/Ji4e4Pj6KUr3lHiw3hD0vU",
           favorited: false
-        }
+        },
         {
           name: "2",
           artist: "EP 2",
